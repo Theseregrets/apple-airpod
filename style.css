@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+video{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.intro{
+    height: 100vh;
+}
