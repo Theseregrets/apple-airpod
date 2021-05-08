@@ -3,7 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    background: #101010;
+    color: blanchedalmond;
+    text-align: center;
+    font-family: sans-serif;
+}
 video{
     height: 100%;
     width: 100%;
@@ -12,3 +17,4 @@ video{
 .intro{
     height: 100vh;
 }
+
